@@ -1,7 +1,8 @@
 import axios from 'axios';
 
 // const BASE_URL = 'http://localhost:8080/api';
-const BASE_URL = 'https://backend.studyadda.me/api';
+// const BASE_URL = 'https://backend.studyadda.me/api';
+const BASE_URL = 'https://study-adda-backend-mu.vercel.app/api';
 
 // Axios instance with credentials (session cookie sent automatically)
 const api = axios.create({

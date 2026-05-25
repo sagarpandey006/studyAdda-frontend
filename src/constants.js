@@ -1,5 +1,6 @@
 // export const backendApiUrl = "http://localhost:8080/api";
-export const backendApiUrl = "https://backend.studyadda.me/api";
+// export const backendApiUrl = "https://backend.studyadda.me/api";
+export const backendApiUrl = "https://study-adda-backend-mu.vercel.app/api";
 
 export const routes = {
   AUTHOR: "author",
